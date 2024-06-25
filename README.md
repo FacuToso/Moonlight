@@ -46,9 +46,3 @@ https://www.moonlightspace.com/
 ![App Screenshot](https://i.imgur.com/x366ygP.png)
 
 ![App Screenshot](https://i.imgur.com/ZK1vC7m.png)
-
-## Project Status
-
-I will keep working on fixing any remaining bugs and adding additional functionalities to this project. I am also continuously looking for opportunities to improve the overall performance of the application and provide the best possible user experience.
-
-My current TODO list about the next changes and fixes that i plan on doing to the website can be seen on the file [todo.txt](TODO.txt)
